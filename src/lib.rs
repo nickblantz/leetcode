@@ -6,6 +6,7 @@ mod p0005_longest_palindromic_substring;
 mod p0006_zigzag_conversion;
 mod p0009_palindrome_number;
 mod p0010_regular_expression_matching;
+mod p0011_container_with_most_water;
 mod p0053_maximum_subarray;
 mod p0134_gas_station;
 mod p0300_longest_increaing_subsequence;
