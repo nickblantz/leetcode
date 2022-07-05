@@ -9,6 +9,7 @@ mod p0010_regular_expression_matching;
 mod p0011_container_with_most_water;
 mod p0053_maximum_subarray;
 mod p0134_gas_station;
+mod p0135_candy;
 mod p0300_longest_increaing_subsequence;
 mod p0746_min_cost_climbing_stairs;
 mod p1423_maximum_points_you_can_obtain_from_cards;
